@@ -1,0 +1,56 @@
+5 493 221 369 311 
+69 -490 -323 -473 
+42 -20 -265 193 
+75 -420 33 218 
+1 340 285 116 
+9 115 242 24 
+138 -64 -489 -2 
+146 480 434 -137 
+165 -267 110 -497 
+103 -448 
+190 -299 
+3K1SJ
+8tbZ8
+DhAcY
+HWYPq
+Xlp3f
+YF2Vz
+ZDPwL
+ZSRWO
+bY0vV
+eWgeF
+eYji8
+fyQGA
+h2w8i
+jSMt7
+o4g9E
+psZuB
+tE5uU
+woaTu
+wuaUd
+190 -299 
+3K1SJ
+8tbZ8
+DhAcY
+HWYPq
+Xlp3f
+YF2Vz
+ZDPwL
+ZSRWO
+aFyqV
+aUOjY
+bY0vV
+eWgeF
+eYji8
+fyQGA
+h2w8i
+jSMt7
+psZuB
+tE5uU
+woaTu
+wuaUd
+143 317 291 -37 -489 
+163 -356 -312 -408 91 
+198 -85 290 -474 286 
+178 259 187 451 
+140 -341 -131 

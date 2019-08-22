@@ -1,0 +1,12 @@
+Number of total seats: 10
+Client1 reserves Seat6
+Client4 reserves Seat4
+Client3 reserves Seat1
+Client5 reserves Seat7
+Client2 reserves Seat2
+Client6 reserves Seat3
+Client7 reserves Seat5
+Client9 reserves Seat8
+Client10 reserves Seat9
+Client8 reserves Seat10
+All seats are reserved.

@@ -1,0 +1,100 @@
+list record PL7Uz
+create record Vd6tw  96
+list type
+list record eYji8
+list type
+delete type PDtx2
+create type JBHrQ 1 field1 
+create record eYji8  48 71 -368 17
+update record rqAuS 112 -40 367 -197 
+create type RDVG7 4 field1 field2 field3 field4 
+update record eYji8 48 -36 -384 283 
+create record SG9U9  192
+list record tE5uU
+create record 5JWxj  144 -334 308 -140 -272
+create type FhWF6 4 field1 field2 field3 field4 
+delete record YZQ6j 7
+list record PL7Uz
+update record 5JWxj 144 -380 346 -246 410 
+delete type FhWF6
+delete record rqAuS 112
+delete type kFaf5
+search record tE5uU 24
+create record 00eQC  91 -19 173 441
+create type DVWY2 2 field1 field2 
+create type GdfOm 2 field1 field2 
+create record eYji8  83 186 -77 121
+delete record Vd6tw 194
+delete type wLfhQ
+delete type GdfOm
+create record M8D6Y  188 321 -315 38 257 -438
+create record SG9U9  140
+create type 3K1SJ 3 field1 field2 field3 
+search record PL7Uz 47
+create record 5JWxj  56 444 302 -29 364
+delete type tE5uU
+create record SG9U9  149
+list record 0h0I6
+update record Xhqnm 97 341 161 
+list record 00eQC
+delete type SG9U9
+create record M8D6Y  41 -360 133 -45 -389 95
+list record Vd6tw
+create record fdpoz  53 -75 -473 337 444 -471
+create record z2KGM  104 -377 292
+search record z2KGM 104
+delete record 5JWxj 56
+delete type M8D6Y
+create record DVWY2  27 122
+delete record z2KGM 104
+create record YZQ6j  174
+delete type 00eQC
+create record JBHrQ  111
+list record z2KGM
+delete record 5JWxj 144
+delete type PL7Uz
+delete record eYji8 48
+create record 5JWxj  137 45 -478 -142 -133
+update record 5JWxj 137 -120 -151 -242 454 
+update record eYji8 83 -115 224 214 
+delete record eYji8 83
+delete record fdpoz 53
+create record z2KGM  117 458 439
+create type cnAuf 5 field1 field2 field3 field4 field5 
+delete type 3K1SJ
+create record 5JWxj  181 301 304 348 -478
+create record JBHrQ  99
+delete record z2KGM 117
+create record fdpoz  155 128 -73 239 204 -18
+list record 0h0I6
+create type LNE0O 1 field1 
+create record LNE0O  29
+create record 5JWxj  79 294 -411 305 484
+list record DVWY2
+delete record Xhqnm 97
+create type pnCBK 3 field1 field2 field3 
+create record DVWY2  42 292
+list type
+delete type Vd6tw
+list record Xhqnm
+create record eYji8  149 136 -139 -274
+create record DVWY2  9 86
+update record fdpoz 155 -284 380 -362 21 -379 
+list record eYji8
+create type xbi4M 4 field1 field2 field3 field4 
+delete type Xhqnm
+create type uLS8V 3 field1 field2 field3 
+create record RDVG7  121 460 124 322
+update record 5JWxj 137 360 -175 -375 -283 
+search record RDVG7 121
+list record DVWY2
+create type upfRY 2 field1 field2 
+delete type DVWY2
+list record RDVG7
+delete type YZQ6j
+create record eYji8  113 415 254 94
+create type tWoUT 1 field1 
+list record tWoUT
+create record RDVG7  45 -172 -47 -147
+create type Eg0PK 3 field1 field2 field3 
+create record 5JWxj  0 -458 357 -400 301

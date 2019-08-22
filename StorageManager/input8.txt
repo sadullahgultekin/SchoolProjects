@@ -1,0 +1,32 @@
+create record eWgeF  107 490 -369
+delete type QWRD3
+list type
+delete type ZDPwL
+delete type YF2Vz
+update record 8tbZ8 143 234 -46 -80 273 
+create type G3vBc 4 field1 field2 field3 field4 
+delete type eWgeF
+create type v4d3M 1 field1 
+create record h2w8i  34 -492 -383 215 -293
+delete record h2w8i 113
+create type DVk9K 2 field1 field2 
+list record DhAcY
+create type 2vK5g 4 field1 field2 field3 field4 
+list type
+delete type G3vBc
+list record wuaUd
+delete type v4d3M
+search record wuaUd 178
+list record DVk9K
+list record 3K1SJ
+create record tWoUT  129
+delete type VT9p5
+delete type 3K1SJ
+list record JBHrQ
+create type aHfQ0 1 field1 
+delete type ZSRWO
+create record aUOjY  188 39
+list record h2w8i
+list record 8tbZ8
+create type z2KGM 3 field1 field2 field3 
+delete type z2KGM

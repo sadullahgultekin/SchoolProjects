@@ -1,0 +1,92 @@
+79 294 -411 305 484 
+137 -229 -440 -83 475 
+172 404 442 357 257 
+181 409 -193 323 -66 
+194 19 -428 -367 321 
+54 152 478 -214 180 86 
+131 405 -452 
+99 -492 438 -74 -337 
+103 387 
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+HWYPq
+HYfCm
+IbAMC
+OCBk7
+YF2Vz
+eWgeF
+eYji8
+elWaM
+jSMt7
+ngl1c
+p6jzY
+psZuB
+tE5uU
+tWoUT
+103 -448 
+00Ppy
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+AF2lv
+HWYPq
+HYfCm
+IbAMC
+OCBk7
+YF2Vz
+eWgeF
+eYji8
+elWaM
+jSMt7
+ngl1c
+p6jzY
+psZuB
+tE5uU
+tWoUT
+90 168 65 141 
+90 168 65 141 
+90 168 65 141 
+00Ppy
+2vK5g
+5JWxj
+AF2lv
+DhAcY
+HWYPq
+HYfCm
+MbGm5
+OCBk7
+YF2Vz
+eWgeF
+eYji8
+fyQGA
+jSMt7
+ngl1c
+p6jzY
+psZuB
+tE5uU
+tWoUT
+vIOje
+154 294 -245 -231 
+00Ppy
+2vK5g
+5JWxj
+AF2lv
+DhAcY
+HWYPq
+MbGm5
+OCBk7
+YF2Vz
+ZSRWO
+eWgeF
+eYji8
+fyQGA
+jSMt7
+ngl1c
+p6jzY
+psZuB
+tE5uU
+tWoUT
+vIOje

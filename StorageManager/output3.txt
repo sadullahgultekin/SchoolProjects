@@ -1,0 +1,154 @@
+0 -458 357 -400 301 
+79 294 -411 305 484 
+137 360 -175 -375 -283 
+181 409 -193 323 -66 
+121 460 124 322 
+155 -284 380 -362 21 -379 
+0h0I6
+5JWxj
+7p2Pv
+9uO4Y
+C8eoY
+CC4Na
+Eg0PK
+JBHrQ
+KPsX9
+LNE0O
+OYARJ
+eYji8
+fdpoz
+p6jzY
+pnCBK
+rqAuS
+tWoUT
+uLS8V
+upfRY
+xbi4M
+0h0I6
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+C8eoY
+Eg0PK
+JBHrQ
+KPsX9
+LNE0O
+eYji8
+fdpoz
+h2w8i
+p6jzY
+pnCBK
+rqAuS
+tWoUT
+uLS8V
+upfRY
+xbi4M
+0h0I6
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+C8eoY
+Eg0PK
+JBHrQ
+KPsX9
+LNE0O
+eYji8
+fdpoz
+h2w8i
+p6jzY
+pnCBK
+rqAuS
+tWoUT
+uLS8V
+upfRY
+xbi4M
+108 
+98 178 
+113 415 254 94 
+149 136 -139 -274 
+154 294 -245 -231 
+98 178 
+62 -321 -59 187 
+0h0I6
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+C8eoY
+Eg0PK
+JBHrQ
+KPsX9
+LNE0O
+eYji8
+fdpoz
+h2w8i
+p6jzY
+pnCBK
+rqAuS
+tWoUT
+uLS8V
+upfRY
+xbi4M
+0h0I6
+2vK5g
+5JWxj
+7p2Pv
+9uO4Y
+C8eoY
+Eg0PK
+JBHrQ
+KPsX9
+LNE0O
+eYji8
+fdpoz
+h2w8i
+p6jzY
+pnCBK
+rqAuS
+tWoUT
+upfRY
+xbi4M
+108 
+157 -385 
+0h0I6
+2vK5g
+30ovz
+5JWxj
+7p2Pv
+9uO4Y
+Eg0PK
+GdfOm
+HWYPq
+JBHrQ
+KPsX9
+Pg14p
+dXvZr
+eYji8
+fdpoz
+p6jzY
+tWoUT
+upfRY
+vIOje
+xbi4M
+0h0I6
+2vK5g
+30ovz
+5JWxj
+7p2Pv
+9uO4Y
+Eg0PK
+GdfOm
+HWYPq
+JBHrQ
+KPsX9
+Pg14p
+dXvZr
+eYji8
+fdpoz
+p6jzY
+tWoUT
+vIOje
+xbi4M
+98 -162 

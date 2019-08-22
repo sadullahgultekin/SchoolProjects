@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SOTA Result in CS</title>
+
+        <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+        <!-- <link rel="stylesheet" type="text/css" href="static/css/conversation.css"/> -->
+        <script type="text/javascript" src="static/js/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="static/js/index.js"></script>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="shortcut icon" href="#" />
+    </head>
+    <body>
+
+      <h1 style="text-align:center">SOTA Result in CS</h1>
+      
+      <div style="margin:0 20% auto">
+        <h3>User Type</h3>
+        <label><input type="checkbox" name="fooby[0][]" id='admin' />Admin</label>
+        <label><input type="checkbox" name="fooby[0][]" id='user'/>User</label>
+      </div>
+
+      <div style="margin:0 20% auto">
+        <h3>Operation</h3>
+        <div id='admin-operation'>
+          <div>
+            <label><input type="checkbox" name="fooby[1][]" id='create-paper'/>Create Paper</label>
+            <label><input type="checkbox" name="fooby[1][]" id='update-paper'/>Update Paper</label>
+            <label><input type="checkbox" name="fooby[1][]" id='delete-paper'/>Delete Paper</label>
+          </div>
+          <div id='create-paper-options' class='paper-operation' hidden>
+              <p>Author: <input type="text" id='c-p-author-filed' class='my-argument'></p>
+              <p>Title: <input type="text" id='c-p-title-filed' class='my-argument'></p>
+              <p>Abstract: <input type="text" id='c-p-abstract-filed' class='my-argument'></p>
+              <p>Topic: <input type="text" id='c-p-topic-filed' class='my-argument'></p>
+              <p>Result: <input type="text" id='c-p-result-filed' class='my-argument'></p>
+          </div>
+          <div id='update-paper-options' class='paper-operation' hidden>
+              <p>Old Title: <input type="text" id='u-p-old-title-filed' class='my-argument'></p>
+              <p>Author: <input type="text" id='u-p-author-filed' class='my-argument'></p>
+              <p>Title: <input type="text" id='u-p-title-filed' class='my-argument'></p>
+              <p>Abstract: <input type="text" id='u-p-abstract-filed' class='my-argument'></p>
+              <p>Topic: <input type="text" id='u-p-topic-filed' class='my-argument'></p>
+              <p>Result: <input type="text" id='u-p-result-filed' class='my-argument'></p>
+          </div>
+          <div id='delete-paper-options' class='paper-operation' hidden>
+              <p>Title: <input type="text" id='d-p-author-filed' class='my-argument'></p>
+          </div>
+          <div>
+            <label><input type="checkbox" name="fooby[1][]" id='create-author'/>Create Author</label>
+            <label><input type="checkbox" name="fooby[1][]" id='update-author'/>Update Author</label>
+            <label><input type="checkbox" name="fooby[1][]" id='delete-author'/>Delete Author</label>
+          </div>
+          <div id='creaete-delete-author-options' class='author-operation' hidden>
+            <p>Name: <input type="text" id='c-d-a-name-filed' class='my-argument'></p>
+            <p>Surname: <input type="text" id='c-d-a-sur-filed' class='my-argument'></p>
+          </div>
+          <div id='update-author-options' class='author-operation' hidden>
+              <p>Old Name: <input type="text" id='u-a-old-name-filed' class='my-argument'></p>
+              <p>Old Surname: <input type="text" id='u-a-old-sur-filed' class='my-argument'></p>
+              <p>Name: <input type="text" id='u-a-name-filed' class='my-argument'></p>
+              <p>Surname: <input type="text" id='u-a-sur-filed' class='my-argument'></p>
+            </div>
+          <div>
+            <label><input type="checkbox" name="fooby[1][]" id='create-topic'/>Create Topic</label>
+            <label><input type="checkbox" name="fooby[1][]" id='update-topic'/>Update Topic</label>
+            <label><input type="checkbox" name="fooby[1][]" id='delete-topic'/>Delete Topic</label>
+          </div>
+          <div id='create-topic-options' class='topic-operation' hidden>
+              <p>Topic: <input type="text" id='c-t-name-filed' class='my-argument'></p>
+          </div>
+          <div id='update-topic-options' class='topic-operation' hidden>
+              <p>Old Topic: <input type="text" id='u-t-old-name-filed' class='my-argument'></p>
+              <p>Topic: <input type="text" id='u-t-name-filed' class='my-argument'></p>
+          </div>
+          <div id='delete-topic-options' class='topic-operation' hidden>
+              <p>Topic: <input type="text" id='d-t-name-filed' class='my-argument'></p>
+          </div>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='view-authors' />View Authors</label>
+          <label><input type="checkbox" name="fooby[1][]" id='view-papers' />View Papers</label>
+          <label><input type="checkbox" name="fooby[1][]" id='view-topics' />View Topics</label>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='author-name' />View The Papers Of The Author</label>
+          <input type="text" id="author-name-box" disabled>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='topic-name'/>View The Papers Of The Topic</label>
+          <input type="text" id="topic-name-box" disabled>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='search-word'/>Search A Word</label>
+          <input type="text" id="search-word-box" disabled>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='rank-by-sota'/>Rank Authors By SOTA</label>
+        </div>
+        <div>
+          <label><input type="checkbox" name="fooby[1][]" id='co-author-name'/>View The Co-Authors Of An Author</label>
+          <input type="text" id="co-author-name-box" disabled>
+        </div>
+      </div>
+      
+      <button onclick='makeQuery(this)' type="button" class="btn btn-default" style="margin:0 20% auto">Make Query</button>
+
+      <div id='query-result' style="margin:0 20% auto"></div>
+
+    </body>
+</html>

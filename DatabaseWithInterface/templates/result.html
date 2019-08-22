@@ -1,0 +1,67 @@
+<div style='padding: 1cm'>
+    {% if 'operation' in result %}
+    <div id='operation'>
+        <div style='border:1px solid black'>
+            <p>{{ result['operation'] }}</p>
+        </div>
+    </div>
+    {% elif 'authors' in result %}
+        {% if result['authors']|length %}
+            <div id='authors'>
+                {% for author in result['authors'] %}
+                    <div style='border:1px solid black'>
+                        <p>Name: {{ author['name'] }}</p>
+                        <p>Surname: {{ author['surname'] }}</p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div style='border:1px solid black'>
+                <p>NO AUTHOR IS FOUND</p>
+            </div>
+        {% endif %}
+    {% elif 'papers' in result %}
+        {% if result['papers']|length %}
+            <div id='papers'>
+                {% for paper in result['papers'] %}
+                    <div style='border:1px solid black'>
+                        <p>Title: {{ paper['title'] }}</p>
+                        <p>Authors:
+                        {% for author in paper['authors'] %}
+                            {{ author.0 }} {{ author.1 }}, 
+                        {% endfor %}
+                        </p>
+                        <p>Topics: 
+                            {% for topic in paper['topics'] %}
+                                {{ topic.0 }}, 
+                            {% endfor %}
+                        </p>
+                        <p>Abstract: {{ paper['abstract'] }}</p>
+                        <p>Result: {{ paper['result'] }}</p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div style='border:1px solid black'>
+                <p>NO PAPER IS FOUND</p>
+            </div>
+        {% endif %}
+    {% elif 'topics' in result %}
+        {% if result['topics']|length %}
+            <div id='topics'>
+                {% for topic in result['topics'] %}
+                    <div style='border:1px solid black'>
+                        <p>Topic: {{ topic['topic'] }}</p>
+                        <p>Sota: {{ topic['sota'] }}</p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div style='border:1px solid black'>
+                <p>NO TOPIC IS FOUND</p>
+            </div>
+        {% endif %}
+    {% endif %}
+
+
+</div>
